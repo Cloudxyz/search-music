@@ -32,7 +32,7 @@ function App() {
       guardarError(false);
     }
     consultarApiLetra();
-  }, [busquedaLetra, letra])
+  }, [busquedaLetra])
  
 
   return (
